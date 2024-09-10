@@ -1,0 +1,15 @@
+
+.set-width {
+   width: 350px;
+ }
+ 
+ .underline-text {
+   text-decoration: underline;
+ }
+ .highlight {
+  background-color: orange;
+}
+.red-bold-text {
+  color: red; 
+  font-weight: bold; 
+}
